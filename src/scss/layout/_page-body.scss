@@ -1,0 +1,88 @@
+.page-area {
+	@include container;
+	margin-top: 1.5em;
+  margin-bottom: 2.5em;
+    @include breakpoint($mobile) {
+      margin-top: 0;
+      margin-bottom: 1em;
+      padding-left: 1em;
+      padding-right: 1em;
+    }
+}
+
+.left-side {
+  @include span(4);
+    @include breakpoint($mobile) {
+      @include span(12);
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+}
+
+.article-area {
+  @include push(1);
+	@include span(9);
+    padding-left: 1em;
+    h1 {
+      font-family: $heading-font-family;
+      font-weight: 300;
+    }
+    @include breakpoint($mobile) {
+      @include span(12);
+      padding-left: 1em;
+      padding-right: 1em;
+    }
+}
+
+article p {
+	font-size: 1em;
+}
+
+.article-listing {
+	@include span(5);
+		@include breakpoint($mobile) {
+      		@include span(12);
+  	}
+}
+
+.post-content {
+  @include span(12);
+      h1, h2, h3 {
+      font-family: $heading-font-family;
+      font-weight: 300;
+    }
+      @include breakpoint($mobile) {
+        @include span(12);
+      }
+}
+
+.post-meta {
+  /*@include push(1)
+  @include span(2 last);*/
+	background-color: $white;
+	/*border-bottom: solid 2px $primarycolor ;*/
+	color: $dark-gray;
+	/*font-size: .8em;*/
+	font-family: $condensed-font-family;
+	font-weight: 300;
+  padding: 1px;
+  margin-bottom: 1em;
+}
+
+.comment-area {
+  @include span(9 of 12);
+  margin-top: 1em;
+    @include breakpoint($mobile) {
+      @include span(12);
+    }
+}
+
+.portfolio ul {
+  list-style-type: disc;
+  margin-left: 2em;
+  margin-bottom: 2em;
+}
+
+.portfolio h2 {
+  font-weight: 400;
+}

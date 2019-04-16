@@ -4,26 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>{% include "css/main.css" %}</style>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-6jHF7Z3XI3fF4XZixAuSu0gGKrXwoX/w3uFPxC56OtjChio7wtTGJWRW53Nhx6Ev" crossorigin="anonymous">
     <title>{{ title }}</title>
   </head>
   <body class="{{ bodyClass }}" >
-    <div class="container">
-      <header>
-        <ul class="nav">
-          <li>
-            <a href="/">home<small>where the heart is</small></a>
-          </li>
-          <li>
-            <a href="/about">about<small>all about this</small></a>
-          </li>
-        </ul>
-        <h1>{{ title }}</h1>
-        {%- if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
-      </header>
+     {% include "header.njk" %}
+
       {{ content | safe }}
+
       {% include "footer.njk" %}
       <script>{% include "js/scripts.js" %}</script>
-    </div>
+
   </body>
 </html>
 
