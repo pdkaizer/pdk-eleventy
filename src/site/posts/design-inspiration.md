@@ -2,8 +2,8 @@
 title: Veerle Pieters georgeous new version of her blog
 date: 2019-03-15
 tag: inspiration, design, design-inspiration
-summary: Veerle Pieters has been a favorite designer of mine for many years. In this recent post she talks about how the latest version of her georgeous blog came to life.
-header-image: veerles-blog-hero-header.png
+summary: Veerle Pieters has been a favorite designer of mine for many years. In this recent post she talks about how the latest version of her georgeous blog came to life
+headerImage: veerles-blog-hero-header.png
 ---
 
 Veerle Pieters has been a favorite designer of mine for many years. In this recent post she talks about how the latest version of her georgeous blog came to life.

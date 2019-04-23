@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+   {% include "head.njk" %}
+  <body class="{{ bodyClass }}" >
+     {% include "header.njk" %}
+     {% include "header-image.njk" %}
+
+<div class="page-area">
+	<section class="article-area">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+	  		<div class="post-content">
+	  			<h1>{{ title }}</h1>
+
+			<span class="visible-phone mobile-date">
+				<i class="far fa-calendar-alt"></i> {{ page.date | dateDisplay("LLL d, y") }}
+			</span>
+
+	    	<div class="post-meta visible-desktop">
+	    		<i class="far fa-calendar-alt"></i> {{ page.date | dateDisplay("LLL d, y") }}
+	    	</div>
+
+	    		 {{ content | safe }}
+	  		</div>
+
+		</article>
+		{% include "comments.njk" %}
+	</section>
+</div>
+
+      {% include "footer.njk" %}
+      <script>{% include "js/main.js" %}</script>
+  </body>
+</html>

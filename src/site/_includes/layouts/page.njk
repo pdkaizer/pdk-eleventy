@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+   {% include "head.njk" %}
+  <body class="{{ bodyClass }}" >
+     {% include "header.njk" %}
+     {% include "header-image.njk" %}
+
+<div class="page-area">
+	<section class="article-area">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+	  		<div class="post-content">
+	  			<h1>{{ title }}</h1>
+
+	    		 {{ content | safe }}
+	  		</div>
+
+		</article>
+	</section>
+</div>
+
+      {% include "footer.njk" %}
+      <script>{% include "js/main.js" %}</script>
+  </body>
+</html>

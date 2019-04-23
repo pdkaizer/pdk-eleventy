@@ -1,27 +1,27 @@
 ---
-title: Get Yours
-layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+title: About Me
+layout: layouts/page.njk
+headerImage: pdk-2017-about.jpg
 ---
 
-## Hosting
+I am a  designer and design technologist with a passion for user focused digital products that are highly functional and beautifully designed.
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+My current job is Senior Designer for [Booz | Allen | Hamilton](http://www.boozallen.com/) where I currently am doing design work for the [USPS](https://www.usps.com/).
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+Prior to that I was the digital director for the global humanitarian aid organization - [Catholic Relief Services](https://www.crs.org/) - where I built and led the team that managed front and back end development, online branding, user experience, information architecture and email marketing.
 
+I have been a designer and maker of digital products for 20 years but really I have been a designer and maker of things my whole life. I started crafting objects as a yound teenager. First finely crafted leather goods and then later hand made pottery. I spent 19 years making and selling functional stoneware pottery to the American Crafts Marketplace.
 
-## One-click deploy
+For more see my [resume](/resume/).
 
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
+## About this site
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
+This is my personal web space, where I post about technology, design and food, along with other things that catch my eye. None of the views expressed on this site or any of my personal social networks reflect the opinion of my employers or any of my freelance clients. They are my opinions alone.
 
+### Publishing
 
-## 👆 Wait, what happens when I click that button?
+The site is published using the [Jekyll](https://jekyllrb.com/) static site generator. The site is typset in Source Sans Pro and Playfair Display served from [Google Fonts](https://fonts.google.com/). This site is hosted as a static website in an [Amazon Web Services (AWS)](https://aws.amazon.com/) [S3](https://aws.amazon.com/s3/?p=tile) bucket and served securly via [https](https://en.wikipedia.org/wiki/HTTPS) and AWS [Cloudfront](https://aws.amazon.com/cloudfront/?p=tile). I also use AWS [Route 53](https://aws.amazon.com/route53/?p=tile) for DNS management.
 
-Good question. Here's what it will do...
+###Coding and code
 
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
+My current coding editor of choice is [Visual Studio Code](https://code.visualstudio.com/). All the [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) is written in [SASS](http://sass-lang.com/) using the [Bourbon](http://bourbon.io/), [Suzy](http://susy.oddbird.net/) and [Breakpoint SASS](http://breakpoint-sass.com/) libraries.

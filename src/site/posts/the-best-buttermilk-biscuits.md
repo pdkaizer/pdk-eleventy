@@ -1,5 +1,7 @@
 ---
 title: The Best Buttermilk Biscuits
+tag: food, cooking, recipe
+summary: I woke up craving the fabulous looking buttermilk biscuits I had seen while first exploring the book.
 date: 2010-02-28
 ---
 
