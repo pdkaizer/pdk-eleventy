@@ -1,5 +1,5 @@
 ---
-title: Ten years later: A reflection
+title: Ten years later s reflection
 date: 2011-09-11
 ---
 
