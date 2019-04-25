@@ -3,6 +3,10 @@ title: Peter Kaizer
 subtitle: Designer | Developer
 layout: layouts/base.njk
 headerImage: DC-cherry-blossoms-2019.jpg
+pagination:
+  data: collections.post
+  size: 4
+  reverse: true
 ---
 
 {% include "home-header-image-down.njk" %}

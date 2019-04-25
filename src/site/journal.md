@@ -10,7 +10,7 @@ layout: layouts/base.njk
 
   # Reading & Writing
 
-{%- for page in collections.post -%}
+{%- for page in collections.post | reverse -%}
 <h2><a href="{{ page.url }}">{{ page.data.title }}</a></h2>
 <i class="far fa-calendar-alt"></i> {{ page.date | dateDisplay("LLL d, y") }}
 <p>{{ page.data.summary }}</p>
