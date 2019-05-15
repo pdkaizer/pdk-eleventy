@@ -1,0 +1,17 @@
+	{% for portfolioitem in page.portfolioitems %}
+		<div class="portfolio-section clearfix">
+			<section class="portfolio-image">
+				<img src="/images/portfolio/{{ portfolioitem.image }}" alt="" class="img-responsive" />
+			</section>
+
+			<section class="portfolio-text">
+				<h2>{{ portfolioitem.title }}</h2>
+				{{ portfolioitem.text }}
+
+				<p><strong>Type:</strong> {{ portfolioitem.filter}}</p>
+				<p><strong>Skills:</strong> {{ portfolioitem.skills }}</p>
+				<p><strong>Role:</strong> {{ portfolioitem.role }}</p>
+				<p><strong>Visit site:</strong> <a href="{{ portfolioitem.url }}">{{ portfolioitem.url }}</a></p>
+			</section>
+		</div>
+	{% endfor %}
