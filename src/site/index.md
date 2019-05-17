@@ -8,7 +8,7 @@ pagination:
   size: 4
   reverse: true
 ---
-
+{% include "header-image.njk" %}
 {% include "home-header-image-down.njk" %}
 
 <div class="page-area">
