@@ -1,12 +1,10 @@
 ---
 title: Contact Me
-layout: layouts/base.njk
+layout: layouts/page.njk
 headerImage: typewriter.jpg
 ---
-<div class="page-area">
-<h1>Contact me</h1>
 
-<p>You can contact me using the form below.</p>
+You can contact me using the form below.
 
 <div id="wufoo-m1ov9we50jmzyvo">
 
@@ -26,6 +24,4 @@ var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') retu
 try { m1ov9we50jmzyvo = new WufooForm();m1ov9we50jmzyvo.initialize(options);m1ov9we50jmzyvo.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
-</div>
-
 </div>

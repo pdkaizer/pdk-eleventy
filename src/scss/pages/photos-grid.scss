@@ -1,0 +1,16 @@
+.photo-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /* ^ creates a responsive grid with flexible columns at a min 300px and max of 1fr */
+    grid-auto-rows: 1fr;
+    grid-auto-flow: dense;
+    /* ^ `dense` allows the grid to fill all blank spaces the best of its ability, regardless of how items are laid out in the markup. the default is `row`. without this the masonry grid would not work */
+  }
+
+  .gallery__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }

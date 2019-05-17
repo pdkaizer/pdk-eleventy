@@ -10,7 +10,7 @@ My current job is Senior Designer for [Booz | Allen | Hamilton](http://www.booza
 
 Prior to that I was the digital director for the global humanitarian aid organization - [Catholic Relief Services](https://www.crs.org/) - where I built and led the team that managed front and back end development, online branding, user experience, information architecture and email marketing.
 
-I have been a designer and maker of digital products for 20 years but really I have been a designer and maker of things my whole life. I started crafting objects as a yound teenager. First finely crafted leather goods and then later hand made pottery. I spent 19 years making and selling functional stoneware pottery to the American Crafts Marketplace.
+I have been a designer and maker of digital products for 20 years but really I have been a designer and maker of things my whole life. I started crafting objects as a young teenager. First finely crafted leather goods and then later hand made pottery. I spent 19 years making and selling functional stoneware pottery to the American Crafts Marketplace.
 
 For more see my [resume](/resume/).
 

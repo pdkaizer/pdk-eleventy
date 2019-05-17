@@ -9,10 +9,10 @@ header-image: london-2007-02.jpg
 <h1>Photosets from my travels</h1>
 
 <ul class="photos-grid">
-	{%- for photoset in collection.photosets -%}
+	{%- for photoset in tag.photosets -%}
 	<li>
 		<a href="{{ photoset.url }}">
-		<img src="/images/photos/{{photoset.photoset-name}}/{{photoset.featured-image}}.jpg" class="img-responsive" alt="{{photoset.photoset-name}}">
+		<img src="/images/photos/{{photoset.photoset-name}}/{{photoset.featured-image}}.jpg" class="img-responsive" alt="{{photoset.photosetname}}">
 		<h3>{{ photoset.title }}</h3>
 		</a>
 	</li>

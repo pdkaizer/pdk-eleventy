@@ -7,7 +7,7 @@ headerImage: work-header-img.jpg
 <div class="portfolio-area">
 	<div class="portfolio">
 
- # Projects I have worked on
+# Projects I have worked on
 
  {% include "portfolio-listing.njk" %}
 
