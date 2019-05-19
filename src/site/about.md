@@ -20,7 +20,7 @@ This is my personal web space, where I post about technology, design and food, a
 
 ###  Publishing
 
-This site is built and published using the [11ty](https://www.11ty.io/) - [static site generator](https://jamstack.org/) using an [Apple MAC computer](https://www.apple.com/mac/). The site is served on the [JAMstack](https://jamstack.org/) for free by [Netlify)](https://www.netlify.com/) securly via [https](https://en.wikipedia.org/wiki/HTTPS) thanks to a free certificate from [Let's Encrypt](https://letsencrypt.org/). I also use AWS [Route 53](https://aws.amazon.com/route53/?p=tile) for DNS management.
+This site is built and published using the [11ty](https://www.11ty.io/) - [static site generator](https://jamstack.org/) using an [Apple MAC computer](https://www.apple.com/mac/). The site is served on the [JAMstack](https://jamstack.org/) for free by [Netlify](https://www.netlify.com/) and secured via [https](https://en.wikipedia.org/wiki/HTTPS) thanks to a free certificate from [Let's Encrypt](https://letsencrypt.org/). I also use AWS [Route 53](https://aws.amazon.com/route53/?p=tile) for DNS management.
 
 ###  Design & Typography
 
