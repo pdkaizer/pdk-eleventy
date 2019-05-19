@@ -6,7 +6,6 @@
 	@include container;
 	margin-top: 1.5em;
     margin-bottom: 2.5em;
-    color: $white;
     	@include breakpoint($mobile) {
       	margin-top: 0;
       	margin-bottom: 1em;

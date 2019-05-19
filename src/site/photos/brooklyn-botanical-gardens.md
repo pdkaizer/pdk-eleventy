@@ -1,5 +1,5 @@
 ---
-layout: layouts/photoset.njk
+layout: layouts/photo-page.njk
 title: Brooklyn Botanical Gardens
 summary: A day at the Brooklyn Botanical Gardens.
 date: 2015-05-10
