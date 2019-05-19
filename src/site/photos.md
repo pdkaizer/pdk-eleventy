@@ -16,7 +16,7 @@ header-image: london-2007-02.jpg
 		<p>A boat safari in Malawi in Southern Africa.</p>
 	</li>
 	<li>
-		<a href="A day at the Brooklyn Botanical Gardens.">
+		<a href="/photos/brooklyn-botanical-gardens/">
 		<img src="/images/photos/Brooklyn-botanical/2015-05-03-NYC-160.jpg" class="img-responsive" alt="">
 		<h3>Brooklyn Botanical Gardens</h3></a>
 		<p>A day at the Brooklyn Botanical Gardens.</p>
