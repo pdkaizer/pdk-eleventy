@@ -2,6 +2,9 @@
 layout: layouts/base.njk
 title: Photos from my travels
 header-image: london-2007-02.jpg
+photosets:
+	- Malawi:
+	- Maine:
 ---
 
 <div class="page-area">
