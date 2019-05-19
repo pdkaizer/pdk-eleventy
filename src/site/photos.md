@@ -1,25 +1,26 @@
 ---
-layout: layouts/base.njk
+layout: layouts/page.njk
 title: Photos from my travels
 header-image: london-2007-02.jpg
-photosets:
-	- Malawi:
-	- Maine:
 ---
+
+
 
 <div class="page-area">
 
-<h1>Photosets from my travels</h1>
-
 <ul class="photos-grid">
-	{%- for photoset in tag.photosets -%}
 	<li>
-		<a href="{{ photoset.url }}">
-		<img src="/images/photos/{{photoset.photoset-name}}/{{photoset.featured-image}}.jpg" class="img-responsive" alt="{{photoset.photosetname}}">
-		<h3>{{ photoset.title }}</h3>
-		</a>
+		<a href="/photos/malawi-boat-safari/">
+		<img src="/images/photos/malawi-safari/malawi-boat-safari-5.jpg" class="img-responsive" alt="">
+		<h3>Malawi</h3></a>
+		<p>A boat safari in Malawi in Southern Africa.</p>
 	</li>
-	{% endfor %}
+	<li>
+		<a href="A day at the Brooklyn Botanical Gardens.">
+		<img src="/images/photos/Brooklyn-botanical/2015-05-03-NYC-160.jpg" class="img-responsive" alt="">
+		<h3>Brooklyn Botanical Gardens</h3></a>
+		<p>A day at the Brooklyn Botanical Gardens.</p>
+	</li>
 </ul>
 
 </div>

@@ -8,7 +8,7 @@ featured-image: 2015-05-03-NYC-160
 photosetname: Brooklyn-botanical
 photos:
     - 2015-05-03-NYC-123
-    -  2015-05-03-NYC-124
+    - 2015-05-03-NYC-124
     - 2015-05-03-NYC-125
     - 2015-05-03-NYC-127
     - 2015-05-03-NYC-143
