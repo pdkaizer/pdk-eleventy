@@ -1,8 +1,10 @@
-# EleventyOne
+#PeterKaizer.com
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+This is the codebase for my personal website that lives at [PeterKaizer.com](https://www.peterkaizer.com).
 
-Phil's first port of call when starting another project using Eleventy.
+
+
+Phil Hawksworth's [Eleventyone](https://github.com/philhawksworth/eleventyone)
 
 This project scaffold includes:
 
@@ -11,9 +13,6 @@ This project scaffold includes:
 - Sass pipeline
 - JS pipeline
 - Serverless (FaaS) development pipeline with Netlify Functions for Lambda
-
-
-![Eleventy screenshot](./eleventyone-template.png)
 
 
 ## Instructions
