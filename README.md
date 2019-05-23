@@ -2,24 +2,21 @@
 
 This is the codebase for my personal website that lives at [PeterKaizer.com](https://www.peterkaizer.com).
 
+This repo is based on the awesome Phil Hawksworth's [Eleventyone](https://github.com/philhawksworth/eleventyone) [11ty](https://www.11ty.io/docs/) starter project scaffold that  includes:
 
-
-Phil Hawksworth's [Eleventyone](https://github.com/philhawksworth/eleventyone)
-
-This project scaffold includes:
-
-- Eleventy with a skeleton site and some configs I use regularly
+- Eleventy with a skeleton site
 - A date format filter for Nunjucks
 - Sass pipeline
 - JS pipeline
 - Serverless (FaaS) development pipeline with Netlify Functions for Lambda
 
+I have customized the CSS architechture to use the [Bourbon](http://bourbon.io/), [Suzy](http://susy.oddbird.net/) and [Breakpoint SASS](http://breakpoint-sass.com/) libraries.
 
 ## Instructions
 
-To get your own instance of this 11ty starter project cloned and deploying to Netlify very quickly, just click the button below and follow the instructions.
+To get your own instance of this code base cloned and deploying to Netlify very quickly, just click the button below and follow the instructions.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/pdkaizer/pdk-eleventy)
 
 
 ## Wait, what happens when I click that button?
@@ -44,7 +41,7 @@ To build the site you need:
 ```bash
 
 # clone this repository
-git clone git@github.com:philhawksworth/eleventyone.git
+git clone git@github.com:pdkaizer/pdk-eleventy.git
 
 # go to the working directory
 cd eleventyone
@@ -55,5 +52,3 @@ yarn
 # start a local build server with hot reloading
 yarn start
 ```
-
-
