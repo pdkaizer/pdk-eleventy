@@ -1,4 +1,4 @@
-#PeterKaizer.com
+# PeterKaizer.com
 
 This is the codebase for my personal website that lives at [PeterKaizer.com](https://www.peterkaizer.com).
 
