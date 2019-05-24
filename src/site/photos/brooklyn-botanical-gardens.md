@@ -24,8 +24,12 @@ photos:
 
 A day at the Brooklyn Botanical Gardens.
 
-<ul class="photo-container">
+<div class="photo-grid">
 {% for photo in photos %}
-<li><img src="/images/photos/{{ photosetname }}/{{ photo }}.jpg" class="gallery__img" alt="" title="" /></li>
+
+<div>
+<img src="/images/photos/{{ photosetname }}/{{ photo }}.jpg" class="gallery__img" alt="" title="" />
+</div>
+
 {% endfor %}
-</ul>
+</div>

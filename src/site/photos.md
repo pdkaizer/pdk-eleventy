@@ -1,9 +1,8 @@
 ---
 layout: layouts/page.njk
 title: Photos from my travels
-header-image: london-2007-02.jpg
+headerImage: london-2007-02.jpg
 ---
-
 
 
 <div class="page-area">
