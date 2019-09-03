@@ -69,6 +69,14 @@ article p {
   margin-bottom: 1em;
 }
 
+.post-category {
+  background-color: #cccccc;
+  color: $secondarycolor;
+  padding: 6px;
+  margin-right: 12px;
+  font-size: 14px;
+}
+
 .comment-area {
   @include span(9 of 12);
   margin-top: 1em;

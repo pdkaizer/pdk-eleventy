@@ -20,6 +20,10 @@
 	    	</div>
 
 	    		 {{ content | safe }}
+
+				{% for category  in categories %}
+					<span class="post-category">{{ category }}</span>
+				{% endfor %}
 	  		</div>
 
 		</article>
