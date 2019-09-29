@@ -5,33 +5,27 @@
      {% include "header.njk" %}
      {% include "header-image.njk" %}
 
-<div class="page-area">
-	<section class="article-area">
-		<article itemscope itemtype="http://schema.org/BlogPosting">
-	  		<div class="post-content">
-	  			<h1>{{ title }}</h1>
-
-			<span class="visible-phone mobile-date">
-				<i class="far fa-calendar-alt"></i> {{ page.date | dateDisplay("LLL d, y") }}
-			</span>
-
-	    	<div class="post-meta visible-desktop">
-	    		<i class="far fa-calendar-alt"></i> {{ page.date | dateDisplay("LLL d, y") }}
-	    	</div>
+<section class="post-area">
+    <div class="post">
+	  		<h1>{{ title }}</h1>
+	    	<h3><i class="far fa-calendar-alt"></i> {{ page.date | dateDisplay("LLL d, y") }}</h3>
 
 	    		 {{ content | safe }}
 
 				{% for category  in categories %}
 					<span class="post-category">{{ category }}</span>
 				{% endfor %}
-	  		</div>
 
-		</article>
+
 		{% include "comments.njk" %}
-	</section>
-</div>
+	</div>
+</section>
 
       {% include "footer.njk" %}
-      <script>{% include "js/main.js" %}</script>
+     <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+      <script>
+      {% include "js/main.js" %}
+      {% include "js/off-canvas.js" %}
+      </script>
   </body>
 </html>

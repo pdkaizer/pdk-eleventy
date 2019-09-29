@@ -4,6 +4,7 @@ type: link
 link: http://bradfrost.com/blog/post/a-code-review-or-yet-another-reason-to-love-the-web/
 summary: Great post from Brad Frost on getting feedback from the indie web community.
 date: 2016-08-11
+headerImage: place-holder-image.png
 ---
 
 Great post from Brad Frost on getting feedback from the indie web community and particularly from Jonathan Snook. This quote resonates with me:

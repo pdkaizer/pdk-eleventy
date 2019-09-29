@@ -1,0 +1,13 @@
+
+
+.visible-mobile,
+.visible-tablet,
+.visible-desktop {
+    display: none !important;
+}
+
+.hidden-mobile,
+.hidden-tablet,
+.hidden-desktop {
+    display: block !important;
+}

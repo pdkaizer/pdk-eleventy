@@ -5,20 +5,19 @@ layout: layouts/base.njk
 headerImage: maine-2019.jpg
 pagination:
   data: collections.post
-  size: 4
+  size: 6
   reverse: true
 ---
-{% include "header-image.njk" %}
+{% include "home-hero.njk" %}
 {% include "home-header-image-down.njk" %}
 
-<div class="page-area">
-{% include "home-sidebar.njk" %}
-<section class ="home-article-listing" id="follow">
+<section class="posts" id="follow">
 
-  # Latest reading & writing
-
+<h1><i class="fal fa-pencil"></i> Latest reading & writing</h1>
 {% include "home-posts-listing.njk" %}
-
+<div class="home-see-all"><h3><a href="/journal">See all posts <i class="fa fa-arrow-right fa=2x" aria-hidden="true"></i></a></h3></div>
 </section>
-</div>
 
+{% include "home-featured-project.njk" %}
+
+{% include "home-featured-photo-gallery.njk" %}

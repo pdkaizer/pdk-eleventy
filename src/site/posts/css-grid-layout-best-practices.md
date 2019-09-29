@@ -1,7 +1,7 @@
 ---
 title: CSS Grid layout best practices
 link: https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/
-summary: There comes a time when it's time to jump in with both feet on a new technology. For me now is the time with CSS Grid. In this article Rachel Andrew, editor in chief of Smashing Magazine, describes best practices, and some things that you probably don't need to worry about.
+summary: There comes a time when it's time to jump in with both feet on a new technology. For me now is the time with CSS Grid.
 date: 2018-04-17
 headerImage: place-holder-image.png
 categories:

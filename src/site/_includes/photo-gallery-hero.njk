@@ -1,0 +1,21 @@
+<section  class="photo-gallery-hero">
+    <div class="photo-gallery-hero-area">
+        <h1>{{ title }}</h1>
+        <div class="photo-gallery-hero-content">
+            <div><img src="/images/photos/{{ photosetname }}/{{ featuredimage }}.jpg" class="gallery__img" alt="" title="" /></div>
+            <div>
+                <div id='map' style='width: 100%; height: 180px;'></div>
+                <script>
+                mapboxgl.accessToken = 'pk.eyJ1IjoicGthaXplciIsImEiOiJjazA3emxydmIza3UxM25raXd0aXF5czcxIn0.V4cZpQEeB6SBNlX_3DqatQ';
+                var map = new mapboxgl.Map({
+                container: 'map',
+                style: 'mapbox://styles/mapbox/light-v9',
+                center: [40.6694153,-73.9645676], // starting position [lng, lat]
+                zoom: 7 // starting zoom
+                });
+                </script>
+                <p>{{ summary }}</p>
+            </div>
+        </div>
+    </div>
+</section>

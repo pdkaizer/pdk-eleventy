@@ -1,0 +1,28 @@
+.portfolio-area {
+    @include container;
+    margin-top: 1.5rem;
+    h1 {
+      font-size: 3rem;
+      font-weight: 400;
+    }
+}
+
+.portfolio-item {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
+  grid-gap: 1.8rem;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  margin-top: 15px;
+  border-bottom: 1px solid $secondarycolor;
+}
+
+.portfolio-image {
+    img {
+      border: solid 1px $secondarycolor;
+    }
+}
+
+.portfolio-text {
+    font-size: 1.2rem;
+}

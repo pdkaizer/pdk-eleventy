@@ -1,5 +1,5 @@
 ---
-title: Veerle Pieters georgeous new version of her blog
+title: Veerle Pieters georgeous new blog
 date: 2019-03-15
 categories:
 - design

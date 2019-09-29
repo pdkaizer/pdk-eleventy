@@ -4,7 +4,7 @@ title: Malawi Boat safari
 summary: A boat safari in Malawi in Southern Africa.
 date: 2005-05-15
 tag: photosets
-featured-image: malawi-boat-safari-5
+featuredimage: malawi-boat-safari-16
 photosetname: malawi-safari
 photos:
     - malawi-boat-safari-1
@@ -24,15 +24,9 @@ photos:
     - malawi-boat-safari-15
     - malawi-boat-safari-16
 ---
-
 A boat safari in Malawi in Southern Africa.
-
-<div class="photo-grid">
-{% for photo in photos %}
-
-<div>
-<img src="/images/photos/{{ photosetname }}/{{ photo }}.jpg" class="gallery__img" alt="" title="" />
-</div>
-
+<ul>
+ {% for photo in photos %}
+<li><img src="/images/photos/{{ photosetname }}/{{ photo }}.jpg" class="gallery__img" alt="" title="" /></li>
 {% endfor %}
-</div>
+</ul>
