@@ -2,7 +2,7 @@
 title: Peter Kaizer
 subtitle: Designer | Developer
 layout: layouts/base.njk
-headerImage: maine-2019.jpg
+headerImage: DC-12-2019.jpg
 pagination:
   data: collections.post
   size: 6
