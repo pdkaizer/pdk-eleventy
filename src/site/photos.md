@@ -1,25 +1,16 @@
 ---
-layout: layouts/page.njk
+layout: layouts/photos-landing.njk
 title: Photos from my travels
-headerImage: london-2007-02.jpg
+featuredGalleryName: Maine 2019
+featuredGalleryIntro: My wife and I have been going to Maine for the past 5 summers. We usually fly into Portland, ME. Spend a few nights there enjoying the city and the fabulous food scene the and then head about 3 hours north to Deer Isle. This years trip was highlighted with a opportunity to eat at The Lost Kitchen in Freedom, ME
+featuredGalleryPhoto: maine/maine-2019.jpg
+featuredGalleryurl: /photos/maine-summer-2019/
+pg1name: Malawi
+pg1url: /photos/malawi-boat-safari/
+pg1image: /images/photos/malawi-safari/malawi-boat-safari-2.jpg
+pg2name: Brooklyn Botanical Gardens
+pg2url: /photos/brooklyn-botanical-gardens/
+pg2image: /images/photos/Brooklyn-botanical/2015-05-03-NYC-123.jpg
 ---
 
-
-<div class="page-area">
-
-<ul class="photos-grid">
-	<li>
-		<a href="/photos/malawi-boat-safari/">
-		<img src="/images/photos/malawi-safari/malawi-boat-safari-5.jpg" class="img-responsive" alt="">
-		<h3>Malawi</h3></a>
-		<p>A boat safari in Malawi in Southern Africa.</p>
-	</li>
-	<li>
-		<a href="/photos/brooklyn-botanical-gardens/">
-		<img src="/images/photos/Brooklyn-botanical/2015-05-03-NYC-160.jpg" class="img-responsive" alt="">
-		<h3>Brooklyn Botanical Gardens</h3></a>
-		<p>A day at the Brooklyn Botanical Gardens.</p>
-	</li>
-</ul>
-
-</div>
+I love to take photos - who doesn't, well I guess there are some who don't. I take a lot of photos when I travel but also when I am commuting to work, cooking & just doing things around town.

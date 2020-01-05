@@ -3,8 +3,8 @@ layout: layouts/photo-page.njk
 title: Brooklyn Botanical Gardens
 summary: A day at the Brooklyn Botanical Gardens.
 date: 2015-05-10
-tag: photosets
-featured-image: 2015-05-03-NYC-160
+featuredimage: 2015-05-03-NYC-160
+longlat: 40.6694153,-73.9645676
 photosetname: Brooklyn-botanical
 photos:
     - 2015-05-03-NYC-123
@@ -22,14 +22,8 @@ photos:
     - 2015-05-03-NYC-171
 ---
 
-A day at the Brooklyn Botanical Gardens.
-
-<div class="photo-grid">
-{% for photo in photos %}
-
-<div>
-<img src="/images/photos/{{ photosetname }}/{{ photo }}.jpg" class="gallery__img" alt="" title="" />
-</div>
-
+<ul>
+ {% for photo in photos %}
+<li><img src="/images/photos/{{ photosetname }}/{{ photo }}.jpg" class="gallery__img" alt="" title="" /></li>
 {% endfor %}
-</div>
+</ul>

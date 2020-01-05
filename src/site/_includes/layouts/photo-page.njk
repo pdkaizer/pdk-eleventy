@@ -1,21 +1,20 @@
 <!doctype html>
 <html lang="en">
-   {% include "head.njk" %}
+{% include "head.njk" %}
   <body class="{{ bodyClass }}" >
-     {% include "header.njk" %}
+ {% include "header.njk" %}
+
+ {% include "photo-gallery-hero.njk" %}
 
 <div class="photo-page-area">
-	<section class="photos-landing">
-	  	<div class="post-content">
-	  		<h1>{{ title }}</h1>
-
-	    	{{ content | safe }}
-	</section>
+	{{ content | safe }}
 </div>
 
-      {% include "footer.njk" %}
-      <script>
-      {% include "js/main.js" %}
-      </script>
-  </body>
+{% include "footer.njk" %}
+<script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script>
+       {% include "js/main.js" %}
+       {% include "js/off-canvas.js" %}
+</script>
+</body>
 </html>

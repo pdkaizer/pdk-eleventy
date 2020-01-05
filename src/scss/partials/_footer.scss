@@ -1,0 +1,54 @@
+footer {
+	background-color: $light-gray;
+	color: $tertiarycolor;
+	padding-top: 1.25em;
+	padding-bottom: 1.22em;
+	margin-top: 20px;
+}
+
+footer a {
+	color: $tertiarycolor;
+}
+
+.footer-container {
+	@include container;
+	font-size: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-gap: 1.5rem;
+	h3 {
+		font-size: 1.5rem;
+		font-weight: 300;
+	}
+}
+
+.coffee-button {
+	margin-top: 20px;
+  }
+
+  .social a {
+	text-decoration: none;
+}
+
+.social ul {
+	margin: 0;
+	padding: 0;
+}
+
+  .social ul li {
+	float: left;
+	list-style-type: none;
+	margin-left: 0;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+  .social p {
+	font-size: .95em;
+	clear: both;
+  }
+
+.footer-logo {
+	float:left;
+	margin-right: 15px;
+}

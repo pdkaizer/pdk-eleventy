@@ -1,0 +1,133 @@
+header {
+	background-color: $white;
+	color: $dark-gray;
+	padding-top: 5px;
+	padding-bottom: 0;
+}
+
+.header-container {
+	@include container;
+	@supports (display: grid) {
+		display: grid;
+		grid-column-gap: 10px;
+		grid-template-columns: 100px 400px auto;
+	  }
+	@media  (max-width: 648px) {
+		grid-column-gap: 5px;
+		grid-template-columns: 80px 230px auto;
+	}
+}
+
+.header-logo {
+	margin-top: 1em;
+	@mobile {
+		margin-top: 5em;
+	}
+}
+
+.header-name {
+	margin-top: 2.5em;
+		h1 {
+			font-family: $base-font-family;
+			font-size: 2.5em;
+			font-weight: 300;
+			padding-top: 0;
+			padding-bottom: 0;
+			line-height: 0;
+			text-decoration: none;
+		}
+
+		h4 {
+			font-family: $base-font-family;
+			font-size: 1.5em;
+			font-weight: 300;
+			padding-top: 0;
+			padding-bottom: 0;
+			line-height: 0;
+			letter-spacing: .16em;
+		}
+		@media  (max-width: 649px) {
+			margin-top: 2.5em;
+			h1 {
+				font-family: $base-font-family;
+				font-size: 1.75em;
+				font-weight: 300;
+				padding-top: 0;
+				padding-bottom: 0;
+				line-height: 0;
+				text-decoration: none;
+			}
+
+			h4 {
+				font-family: $base-font-family;
+				font-size: 1.25em;
+				font-weight: 300;
+				padding-top: 0;
+				padding-bottom: 0;
+				line-height: 0;
+				letter-spacing: .13em;
+			}
+		}
+}
+
+.header-name a {
+	color: $dark-gray;
+	text-decoration: none;
+}
+
+.header-nav-mobile {
+	@media  (min-width: 1049px) {
+		display: none;
+	}
+	margin-top: 1.5em;
+}
+
+.header-nav {
+	@media  (min-width: 1159px) {
+		margin-top: 1em;
+		margin-left: 150px;
+	}
+	@media  (min-width: 1050px) and (max-width: 1158px) {
+		margin-top: 1em;
+		margin-left: 50px;
+	}
+	@media  (max-width: 1049px) {
+		display: none;
+	}
+}
+
+.header-nav ul {
+	margin: 0;
+	padding: 0;
+	width: 380px;
+}
+
+.nav-li {
+	width: 100px;
+}
+
+.nav-list li {
+	display: inline-block;
+	margin: 3px  0px 3px 0px;
+	font-family: $base-font-family;
+	font-weight: 400;
+	font-size: 17px;
+}
+
+.nav-list a {
+	color: $dark-gray;
+	text-decoration: none;
+}
+
+.nav-list  {
+	-moz-column-count: 2;
+	-moz-column-gap: 15px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 15px;
+	column-count: 2;
+	column-gap: 15px;
+	}
+
+@media (max-width: 768px) {
+
+}
