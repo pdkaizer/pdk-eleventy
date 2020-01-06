@@ -1,8 +1,9 @@
 ---
 title: About Me
-layout: layouts/page.njk
-headerImage: pdk-2017-about.jpg
+layout: layouts/page-no-hero.njk
 ---
+
+<img src="/images/pdk-about-photo.jpg" class="about-photo img-responsive" />
 
 I am a  designer and design technologist with a passion for user focused digital products that are highly functional and beautifully designed.
 
