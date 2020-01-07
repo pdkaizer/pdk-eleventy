@@ -1,6 +1,7 @@
 ---
 title: About Me
 layout: layouts/page-no-hero.njk
+icon: far fa-user
 ---
 
 <img src="/images/pdk-about-photo.jpg" class="about-photo img-responsive" />

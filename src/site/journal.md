@@ -2,6 +2,7 @@
 title: Reading & Writing
 subtitle: Designer | Developer
 layout: layouts/page.njk
+icon: fal fa-pencil
 ---
 
 {%- for page in collections.post | reverse -%}
