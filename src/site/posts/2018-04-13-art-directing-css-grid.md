@@ -2,7 +2,7 @@
 title: Art Directing For The Web With CSS Grid
 summary: Great post from the awesome Andy Clarke on using the new CSS grid specification to art direct the layout of web pages.
 date: 2018-04-13
-headerImage: place-holder-image.png
+headerImage: art-direction-fig-3.jpg
 ---
 
 Great post from the awesome Andy Clarke on using the new CSS grid specification to art direct the layout of web pages. This quote resonates with me:

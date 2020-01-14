@@ -5,7 +5,7 @@ categories:
 - design
 - design-systems
 summary: Design systems have become a focus of mine over the past several years. Lots has been written but this Medium post about 5 lessons learned struck a note with me.
-headerImage: place-holder-image.png
+headerImage: ds-lessons.jpg
 externallink: https://medium.com/carwow-product-engineering/five-lessons-i-learned-building-a-design-system-443f04c6b9d1
 ---
 
