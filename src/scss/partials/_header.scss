@@ -16,6 +16,10 @@ header {
 		grid-column-gap: 5px;
 		grid-template-columns: 80px 230px auto;
 	}
+	@media  (max-width: 458px) {
+		grid-column-gap: 5px;
+		grid-template-columns: 60px 180px auto;
+	}
 }
 
 .header-logo {
@@ -66,6 +70,28 @@ header {
 				padding-bottom: 0;
 				line-height: 0;
 				letter-spacing: .13em;
+			}
+		}
+		@media  (max-width: 454px) {
+			margin-top: 2.5em;
+			h1 {
+				font-family: $base-font-family;
+				font-size: 1.5em;
+				font-weight: 300;
+				padding-top: 0;
+				padding-bottom: 0;
+				line-height: 0;
+				text-decoration: none;
+			}
+
+			h4 {
+				font-family: $base-font-family;
+				font-size: 1em;
+				font-weight: 300;
+				padding-top: 0;
+				padding-bottom: 0;
+				line-height: 0;
+				letter-spacing: .03em;
 			}
 		}
 }
