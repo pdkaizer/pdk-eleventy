@@ -19,11 +19,18 @@
   padding-bottom: 25px;
   margin-top: 15px;
   border-bottom: 1px solid $secondarycolor;
+  @media  (max-width: 449px) {
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    grid-gap: .8rem;
+  }
 }
 
 .portfolio-image {
     img {
       border: solid 1px $secondarycolor;
+    }
+    @media  (max-width: 449px) {
+       width:300px;
     }
 }
 
