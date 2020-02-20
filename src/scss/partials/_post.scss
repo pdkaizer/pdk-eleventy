@@ -4,8 +4,9 @@
   }
 
 .post {
+    margin-top: 25px;
     padding-left: 10%;
-    padding-top: 15px;
+    padding-top: 25px;
     width: 80%;
     h1  {
         font-weight: 300;
@@ -37,6 +38,24 @@
         font-size: 1.8rem;
       }
     }
+}
+
+.journal-listing  {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-gap: 1.2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  @media  (max-width: 454px) {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: .8rem;
+  }
+  h2 {
+    font-size: 24px;
+    font-weight: 300;
+  }
 }
 
 .post-category {
