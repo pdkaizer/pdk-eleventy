@@ -2,7 +2,7 @@
 title: Peter Kaizer
 subtitle: Designer | Developer
 layout: layouts/base.njk
-headerImage: DC-2019-fall.jpg
+headerImage: 2019-May-4-NYC-38.jpg
 pagination:
   data: collections.post
   size: 6
