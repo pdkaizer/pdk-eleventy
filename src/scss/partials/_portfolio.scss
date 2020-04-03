@@ -25,15 +25,22 @@
   }
 }
 
+.portfolio-item:nth-last-child(1) {
+  border-bottom: none;
+}
+
 .portfolio-image {
     img {
       border: solid 1px $secondarycolor;
     }
     @media  (max-width: 449px) {
-       width:300px;
+       width:320px;
     }
 }
 
 .portfolio-text {
     font-size: 1.2rem;
+    @media  (max-width: 449px) {
+      width:320px;
+   }
 }
