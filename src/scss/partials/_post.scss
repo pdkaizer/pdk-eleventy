@@ -72,3 +72,58 @@
 	padding-bottom: 0;
 	padding-left: .8em;
 }
+
+.resume-area {
+  @include container;
+}
+
+.resume {
+  margin-top: 25px;
+  padding-left: 10%;
+  padding-top: 25px;
+  width: 80%;
+  h1  {
+      font-weight: 300;
+      font-size: 2.5rem;
+      padding-bottom: 1.5rem;
+      margin-bottom: 0;
+    }
+  h2 {
+    font-weight: 300;
+    font-size: 2rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  h3 {
+    font-weight: 300;
+    font-size: 1.75rem;
+    margin-top: 0;
+    padding-bottom: 0;
+  }
+  h4 {
+    font-weight: 300;
+    font-size: 1.50rem;
+    margin-top: 0;
+    padding-bottom: 0;
+  }
+  p, blockquote {
+      font-size: 1.2rem;
+      color: $secondarycolor;
+  }
+  p {
+    margin-top: 0;
+    padding-top: 0;
+}
+  ul {
+    margin-top: 0;
+    padding-top: 0;
+  }
+  @media  (max-width: 648px) {
+    padding-left: 0;
+    padding-top: 5px;
+    width: 100%;
+    h1  {
+      font-size: 1.8rem;
+    }
+  }
+}
