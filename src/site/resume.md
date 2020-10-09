@@ -10,32 +10,44 @@ UI/UX designer and design systems engineer with a passion for user focused digit
 
 ## Skills
 
-### Creative
-- Responsive web design and development
-- User experience and user centered design
-- Web typography
-HTML email design
-
-### Technical
-- HTML, CSS, JavaScript
-- PHP, Cold Fusion, Ruby
-- Word Press, Drupal, Jekyll
-- Git version control
-- Adobe Creative Cloud
-- Mac operating system
-
-### Strategic
-- Digital strategy
-- Content Strategy
-- Online branding
-- Social media integration
-- Email marketing
-- Google Analytics
+<div class="skills">
+<div>
+<h3>Creative</h3>
+<ul>
+<li>Responsive web design and development</li>
+<li>User centered design</li>
+<li>User experience</li>
+<li>Web typography</li>
+<li>HTML email design</li>
+</ul>
+</div>
+<div>
+<h3>Technical</h3>
+<ul>
+<li>HTML, CSS, JavaScript</li>
+<li>PHP, Cold Fusion, Ruby</li>
+<li>Word Press, Drupal, Jekyll</li>
+<li>Git version control</li>
+<li>Adobe Creative Cloud</li>
+<li>Mac operating system</li>
+</ul>
+</div>
+<div>
+<h3>Strategic</h3>
+<ul>
+<li>Digital strategy</li>
+<li>Content Strategy</li>
+<li>Online branding</li>
+<li>Social media integration</li>
+<li>Email marketing</li>
+<li>Google Analytics</li>
+</ul>
+</div>
+</div>
 
 ## Experience
 
 #### Booz | Allen | Hamilton - Lead Technologist /UIUX Designer | March 2017 - present
-
 As a Lead Technologist at Booz Allen Hamilton my role varies from technical lead to UX lead or design lead, depending on the project. I have worked with the following clients:
 
 Centers for Medicare & Medicaid Services: Lead  designer and design systems engineer: designed and developed a design system for medicaid.gov & insurekidsnow.gov based on the US Web Design	Standards.
@@ -45,7 +57,6 @@ User Experience lead – supporting experience development on the SAMHSA Knowled
 Design lead – supporting UI design recommendations for resolving UI design pain points
 
 #### Aquilent - Senior User Experience & Technical Consultant | June 2014 – March 2017
-
 Aquilent is a technology solutions and digital services provider focusing on the federal government. There, I have worked with the following clients:
 
 Centers for Medicare & Medicaid, healthcare.gov: Senior front-end developer
@@ -54,11 +65,9 @@ HHS, Office of Civil Rights: Senior information architect
 USPS, Human Resources intranet: Senior information architect
 
 #### Peter Kaizer Digital - Digital strategist, developer & user experience architect | 1999 - present
-
 Digital strategy, responsive design and development, email marketing and user experience design for clients ranging from NIH and the University of Maryland to non-profits and small businesses.
 
 #### Catholic Relief Services - Digital Director | October 2002 – February 2014
-
 Lead the digital presence for global humanitarian aid organization.  Creative and technical director for all public facing web properties. Primary digital strategist.
 
 Built online presence generating $5-15M in online donations annually.
