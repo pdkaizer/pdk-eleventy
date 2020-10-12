@@ -65,7 +65,7 @@ Aquilent is a technology solutions and digital services provider focusing on the
 
 **US Department of Health & Human Services** Office of Civil Rights: Senior information architect
 
-**United Spates Postal Service**  Human Resources intranet: Senior information architect
+**United States Postal Service**  Human Resources intranet: Senior information architect
 
 ### Peter Kaizer Digital - Digital strategist, developer & user experience architect | 1999 - present
 Digital strategy, responsive design and development, email marketing and user experience design for clients ranging from NIH and the University of Maryland to non-profits and small businesses.
