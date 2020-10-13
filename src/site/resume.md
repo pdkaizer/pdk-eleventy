@@ -45,52 +45,50 @@ UI/UX designer and design systems engineer with a passion for user focused digit
 </div>
 </div>
 
-## Experience
-### Booz | Allen | Hamilton - Lead Technologist /UIUX Designer | March 2017 - present
+### Experience
+#### Booz | Allen | Hamilton - Lead Technologist /UIUX Designer | March 2017 - present
 As a Lead Technologist at Booz Allen Hamilton my role varies from technical lead to UX lead or design lead, depending on the project. I have worked with the following clients:
 
-#### Centers for Medicare & Medicaid Services:
-Lead  designer and design systems engineer: designed and developed a design system for medicaid.gov & insurekidsnow.gov based on the US Web Design Standards.
+**United States Postal Service**<br />
+Senior UX/UI Designer – Prototyping re-skins and re-designs of applications within [USPS.com](https://www.usps.com).
 
-#### Substance Abuse & Mental Health Administration (SAMHSA):
-User Experience lead – supporting experience development on the SAMHSA Knowledge Network
-Design lead – supporting UI design recommendations for resolving UI design pain points
+**Centers for Medicare & Medicaid Services**<br />
+Lead  designer and design systems engineer: designed and developed a design system for [medicaid.gov](https://www.medicaid.gov) & [insurekidsnow.gov](https://www.insurekidsnow.gov) based on the [US Web Design Standards](https://designsystem.digital.gov).
 
-### Aquilent - Senior User Experience & Technical Consultant | June 2014 – March 2017
-Aquilent is a technology solutions and digital services provider focusing on the federal government. There, I have worked with the following clients:
+**Substance Abuse & Mental Health Administration (SAMHSA)**<br />
+User Experience lead – supporting experience development on the SAMHSA Knowledge Network<br />
+Design lead – supporting UI design recommendations for resolving UI design pain points<br />
 
-**Centers for Medicare & Medicaid** healthcare.gov - Senior front-end developer
-
-**US Department of State** Bureau of International Information Programs: Wordpress developer
-
-**US Department of Health & Human Services** Office of Civil Rights: Senior information architect
-
+#### Aquilent - Senior User Experience & Technical Consultant | June 2014 – March 2017
+Aquilent was a technology solutions and digital services provider focusing on the federal government. There, I have worked with the following clients. In March 2017 they were acquired by Booz Allen Hamilton.<br />
+**Centers for Medicare & Medicaid** [healthcare.gov](https://www.healthcare.gov) - Senior front-end developer<br />
+**US Department of State** Bureau of International Information Programs: Wordpress developer<br />
+**US Department of Health & Human Services** Office of Civil Rights: Senior information architect<br />
 **United States Postal Service**  Human Resources intranet: Senior information architect
 
-### Peter Kaizer Digital - Digital strategist, developer & user experience architect | 1999 - present
+#### Peter Kaizer Digital - Digital strategist, developer & user experience architect | 1999 - present
 Digital strategy, responsive design and development, email marketing and user experience design for clients ranging from NIH and the University of Maryland to non-profits and small businesses.
 
-### Catholic Relief Services - Digital Director | October 2002 – February 2014
+#### Catholic Relief Services - Digital Director | October 2002 – February 2014
 Lead the digital presence for global humanitarian aid organization.  Creative and technical director for all public facing web properties. Primary digital strategist.
+- Built online presence generating $5-15M in online donations annually.
+- Managed direction of online brand identity
+- Directed design integrity for all digital properties
+- Implemented agency-wide platform for online fundraising, email marketing and advocacy
+- Spearheaded redesign, standards-compliant code and launch of 5000-page website
+- Manage staff of nine design, technical, user experience and content professionals
+- Integrated additional content providers into the team workflow
+- Supervise development of web applications for content management and data collection
 
-Built online presence generating $5-15M in online donations annually.
-Managed direction of online brand identity
-Directed design integrity for all digital properties
-Implemented agency-wide platform for online fundraising, email marketing and advocacy
-Spearheaded redesign, standards-compliant code and launch of 5000-page website
-Manage staff of nine design, technical, user experience and content professionals
-Integrated additional content providers into the team workflow
-Supervise development of web applications for content management and data collection
+#### Web Design Manager | May 1999 - October 2002
+- Grew team from one to six design and content professionals
+- Designed and executed first in-house site redesign and five-year enhancement plan
+- Designed graphical user interface components for website
+- Managed website content
+- Collaborated with other departments to develop email communication vehicles
+- Vendor management  new technology and software research & selection
 
-### Web Design Manager | May 1999 - October 2002
-Grew team from one to six design and content professionals
-Designed and executed first in-house site redesign and five-year enhancement plan
-Designed graphical user interface components for website
-Managed website content
-Collaborated with other departments to develop email communication vehicles
-Vendor management  new technology and software research & selection
-
-### University of Baltimore - Adjunct Professor, Digital Design
+#### University of Baltimore - Adjunct Professor, Digital Design
 Instructor in introductory and advanced web and user experience design for undergraduate corporate communication and graduate publications design students.
 
 ## Education
