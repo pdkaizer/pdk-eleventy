@@ -2,7 +2,7 @@
 title: Peter Kaizer
 subtitle: Designer | Developer
 layout: layouts/base.njk
-headerImage: magnolias-DC-2019-03-18.jpg
+headerImage: au-05-2021.jpg
 pagination:
   data: collections.post
   size: 6
