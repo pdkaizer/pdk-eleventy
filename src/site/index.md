@@ -2,7 +2,7 @@
 title: Peter Kaizer
 subtitle: Designer | Developer
 layout: layouts/base.njk
-headerImage: au-05-2021.jpg
+headerImage: rehoboth-2021.jpg
 pagination:
   data: collections.post
   size: 6
