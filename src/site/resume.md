@@ -24,9 +24,10 @@ UI/UX designer and design systems engineer with a passion for user focused digit
 <div>
 <h3>Technical</h3>
 <ul>
-<li>HTML, CSS, JavaScript</li>
+<li>HTML, CSS, JavaScript, Markdown</li>
 <li>PHP, Cold Fusion, Ruby</li>
-<li>Word Press, Drupal, Jekyll</li>
+<li>Word Press, Drupal, Jekyll, 11TY</li>
+<li>Figma, Sketch, Invision</li>
 <li>Git version control</li>
 <li>Adobe Creative Cloud</li>
 <li>Mac operating system</li>
@@ -50,7 +51,7 @@ UI/UX designer and design systems engineer with a passion for user focused digit
 As a Lead Technologist at Booz Allen Hamilton my role varies from technical lead to UX lead or design lead, depending on the project. I have worked with the following clients:
 
 **United States Postal Service**<br />
-Senior UX/UI Designer – Prototyping re-skins and re-designs of applications within [USPS.com](https://www.usps.com).
+Senior Product Designer – Prototyping new applications and re-designs of applications within [USPS.com](https://www.usps.com).
 
 **Centers for Medicare & Medicaid Services**<br />
 Lead  designer and design systems engineer: designed and developed a design system for [medicaid.gov](https://www.medicaid.gov) & [insurekidsnow.gov](https://www.insurekidsnow.gov) based on the [US Web Design Standards](https://designsystem.digital.gov).
