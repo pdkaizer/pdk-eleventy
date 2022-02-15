@@ -6,7 +6,7 @@ headerImage: pdk-2017-about.jpg
 
 ## Profile
 
-UI/UX designer and design systems engineer with a passion for user focused digital products that are highly functional and beautifully designed. Over twenty years of experience with Design Systems, UI and UX design, CSS architecture, front-end development and content management systems implementation. Expertise in aligning digital strategy with organizational priorities and executing across all digital channels.
+UI/UX designer and design systems engineer with a passion for user focused digital products that are highly functional and beautifully designed. Over twenty two years of experience with Design Systems, UI and UX design, CSS architecture, front-end development and content management systems implementation. Expertise in aligning digital strategy with organizational priorities and executing across all digital channels.
 
 ## Skills
 
@@ -50,7 +50,7 @@ UI/UX designer and design systems engineer with a passion for user focused digit
 #### Booz | Allen | Hamilton - Lead Technologist /UIUX Designer | March 2017 - present
 As a Lead Technologist at Booz Allen Hamilton my role varies from technical lead to UX lead or design lead, depending on the project. I have worked with the following clients:
 
-**United States Postal Service**<br />
+**United States Postal Service - Current project**<br />
 Senior Product Designer – Prototyping new applications and re-designs of applications within [USPS.com](https://www.usps.com).
 
 **Centers for Medicare & Medicaid Services**<br />
