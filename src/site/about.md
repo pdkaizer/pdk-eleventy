@@ -8,7 +8,7 @@ icon: far fa-user
 
 I am a  designer and design technologist with a passion for user focused digital products that are highly functional and beautifully designed.
 
-My current job is Senior Designer for [Booz | Allen | Hamilton](http://www.boozallen.com/) where I currently am doing design work for the [USPS](https://www.usps.com/).
+My current job is Senior Designer for [Booz | Allen | Hamilton](http://www.boozallen.com/) where I currently support the [USPS](https://www.usps.com/) as a Senior Product Designer.
 
 Prior to that I was the digital director for the global humanitarian aid organization - [Catholic Relief Services](https://www.crs.org/) - where I built and led the team that managed front and back end development, online fundraising & branding, user experience, information architecture, and email marketing.
 
