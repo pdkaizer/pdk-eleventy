@@ -6,7 +6,7 @@ headerImage: pdk-2017-about.jpg
 
 ## Profile
 
-UI/UX designer and design systems engineer with a passion for user focused digital products that are highly functional and beautifully designed. Over twenty two years of experience with Design Systems, UI and UX design, CSS architecture, front-end development and content management systems implementation. Expertise in aligning digital strategy with organizational priorities and executing across all digital channels.
+Product designer and design systems engineer with a passion for user focused digital products that are highly functional and beautifully designed. Over twenty two years of experience with Design Systems, UI and UX design, CSS architecture, front-end development and content management systems implementation. Expertise in aligning digital strategy with organizational priorities and executing across all digital channels.
 
 ## Skills
 
@@ -14,9 +14,11 @@ UI/UX designer and design systems engineer with a passion for user focused digit
 <div>
 <h3>Creative</h3>
 <ul>
-<li>Responsive web design and development</li>
+<li>Responsive UI design</li>
 <li>User centered design</li>
-<li>User experience</li>
+<li>User experience design</li>
+<li>Figma, Sketch, Invision</li>
+<li>Adobe Creative Cloud</li>
 <li>Web typography</li>
 <li>HTML email design</li>
 </ul>
@@ -24,12 +26,9 @@ UI/UX designer and design systems engineer with a passion for user focused digit
 <div>
 <h3>Technical</h3>
 <ul>
-<li>HTML, CSS, JavaScript, Markdown</li>
-<li>PHP, Cold Fusion, Ruby</li>
+<li>HTML, CSS, JavaScript, Markdown, PHP</li>
 <li>Word Press, Drupal, Jekyll, 11TY</li>
-<li>Figma, Sketch, Invision</li>
 <li>Git version control</li>
-<li>Adobe Creative Cloud</li>
 <li>Mac operating system</li>
 </ul>
 </div>
