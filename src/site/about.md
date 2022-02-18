@@ -6,7 +6,7 @@ icon: far fa-user
 
 <img src="/images/pdk-about-photo.jpg" class="about-photo img-responsive" />
 
-I am a  designer and design technologist with a passion for user focused digital products that are highly functional and beautifully designed.
+I am a product designer and design technologist with a passion for user focused digital products that are highly functional and beautifully designed.
 
 My current job is Senior Designer for [Booz | Allen | Hamilton](http://www.boozallen.com/) where I currently support the [USPS](https://www.usps.com/) as a Senior Product Designer.
 
